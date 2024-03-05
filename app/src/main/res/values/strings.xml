@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MySubmission</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About Me</string>
+
+    <string-array name="data_anime">
+        <item>Itachi Uchiha</item>
+        <item>Kakashi Hatake</item>
+        <item>Naruto Uzumaki</item>
+        <item>Minato Namikaze</item>
+        <item>Jiraiya</item>
+        <item>Hiruzen Sarutobi</item>
+        <item>Koro-sensei</item>
+        <item>Aomine Daiki</item>
+        <item>Conan Edogawa</item>
+        <item>Senku Ishigami</item>
+        <item>Ryouta Watari</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Seorang anak ajaib dari klan Uchiha di Konohagakure. Ia menjadi penjahat internasional setelah membunuh seluruh klan, hanya menyelamatkan adiknya, Sasuke. Itachi kemudian bergabung dengan organisasi kriminal internasional Akatsuki. Meskipun awalnya terlihat sebagai penjahat, motif Itachi lebih rumit daripada yang terlihat, dan tindakannya sebenarnya demi kepentingan saudara dan desanya.</item>
+        <item>Seorang shinobi dari klan Hatake di Konohagakure. Ia dikenal sebagai “Ninja Peniru” karena kemampuannya meniru berbagai jurus. Kakashi juga merupakan guru dari Naruto, Sasuke, dan Sakura. Ia memiliki mata Sharingan dan memiliki masa lalu yang penuh dengan perjuangan dan pengorbanan.</item>
+        <item>Tokoh utama dalam serial anime dan manga Naruto. Ia adalah seorang ninja hiperaktif, periang, dan ambisius yang bercita-cita menjadi Hokage, pemimpin dan ninja terkuat di desanya. Meskipun awalnya dianggap sebagai bocah yang ceroboh, Naruto tumbuh menjadi pahlawan yang kuat dan bersemangat.</item>
+        <item>Juga dikenal sebagai Hokage Keempat, adalah ayah dari Naruto Uzumaki. Ia adalah seorang ninja legendaris yang memiliki kecepatan dan kecerdasan luar biasa. Minato dikenal karena teknik andalannya, Rasengan, dan sebagai salah satu dari Sannin legendaris.</item>
+        <item>Salah satu dari Sannin legendaris Konohagakure. Ia dikenal sebagai Petapa Kodok karena kemiripannya dengan kodok. Jiraiya adalah seorang petapa yang memiliki kegenitan luar biasa dan berkeliling dunia mencari ilmu yang akan membantu teman-temannya dan dunia secara keseluruhan.</item>
+        <item>Hokage Ketiga Konohagakure. Ia adalah seorang ninja yang bijaksana dan memiliki banyak pengalaman. Meskipun sudah tua, Hiruzen tetap berjuang untuk melindungi desanya.</item>
+        <item>Karakter utama dalam anime “Assassination Classroom”. Ia adalah guru yang memiliki kecepatan dan kekuatan luar biasa. Meskipun terlihat aneh, Koro-sensei memiliki misi rahasia yang melibatkan para muridnya.</item>
+        <item>Karakter dari anime “Kuroko no Basket”. Ia adalah pemain basket yang sangat berbakat dan memiliki kepercayaan diri yang tinggi. Aomine dikenal karena teknik dribbling dan tembakan yang sulit dihentikan.</item>
+        <item>Conan Edogawa adalah nama samaran dari Shinichi Kudo dalam anime “Detective Conan”. Setelah diracuni, Shinichi berubah menjadi seorang anak kecil dan menggunakan nama Conan untuk menyelidiki kasus-kasus misterius.</item>
+        <item>Karakter utama dalam anime “Dr. Stone”. Ia adalah seorang ilmuwan jenius yang berusaha menghidupkan kembali peradaban manusia setelah mereka terpetrifikasi selama ribuan tahun.</item>
+        <item>karakter dari anime “Your Lie in April”. Ia adalah teman dekat dari Kousei Arima dan memiliki semangat yang ceria. Ryouta adalah seorang pemain sepak bola yang mendukung Kousei dalam perjalanan musiknya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/itachi</item>
+        <item>@drawable/kakahi</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/minato</item>
+        <item>@drawable/jiraya</item>
+        <item>@drawable/hiruzen</item>
+        <item>@drawable/koro</item>
+        <item>@drawable/aomine</item>
+        <item>@drawable/conan</item>
+        <item>@drawable/senku</item>
+        <item>@drawable/watari</item>
+    </integer-array>
+
+</resources>
